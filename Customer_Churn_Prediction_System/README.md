@@ -1,4 +1,5 @@
 # Customer Churn Prediction — Data Analyst Portfolio Project
+🔗 **Live Demo:** [Try the app here](https://customer-churn-prediction-eukqrwyceyylvgifqjoeqj.streamlit.app/)
 
 ## Problem Statement
 Customer churn directly impacts revenue for subscription-based businesses. This project 
