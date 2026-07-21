@@ -1,11 +1,16 @@
 import streamlit as st
 import pandas as pd
 import joblib
+import os   # NEW: needed to build reliable file paths
 
-# Load the saved model, scaler, and column list
-model = joblib.load('churn_model.pkl')
-scaler = joblib.load('scaler.pkl')
-model_columns = joblib.load('model_columns.pkl')
+# NEW: get the folder this script lives in, so file paths work no matter 
+# where the app is launched from (local machine vs Streamlit Cloud)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# Load the saved model, scaler, and column list using full paths
+model = joblib.load(os.path.join(BASE_DIR, 'churn_model.pkl'))
+scaler = joblib.load(os.path.join(BASE_DIR, 'scaler.pkl'))
+model_columns = joblib.load(os.path.join(BASE_DIR, 'model_columns.pkl'))
 
 # App title
 st.title("Customer Churn Prediction")
