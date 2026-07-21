@@ -24,7 +24,11 @@ proactive retention efforts before they leave.
 - **Higher monthly charges** correlate with increased churn
 - Electronic check payment users and Fiber optic customers show elevated churn risk
 
-![Churn by Contract Type](images/churn_by_contract.png)
+![Churn by Contract Type]("C:\Users\ABHIJEET0712\OneDrive\Pictures\Screenshots\Screenshot 2026-07-22 000925.png")
+![Churn by Contract Type]("C:\Users\ABHIJEET0712\OneDrive\Pictures\Screenshots\Screenshot 2026-07-22 001045.png")
+![Churn by Tenure]("C:\Users\ABHIJEET0712\OneDrive\Pictures\Screenshots\Screenshot 2026-07-22 001206.png")
+![Churn by Monthly Charges]("C:\Users\ABHIJEET0712\OneDrive\Pictures\Screenshots\Screenshot 2026-07-22 001307.png")
+![Feature Importance]("C:\Users\ABHIJEET0712\OneDrive\Pictures\Screenshots\Screenshot 2026-07-22 002725.png")
 
 ## Model Performance
 
