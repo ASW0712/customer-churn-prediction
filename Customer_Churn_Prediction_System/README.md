@@ -24,11 +24,11 @@ proactive retention efforts before they leave.
 - **Higher monthly charges** correlate with increased churn
 - Electronic check payment users and Fiber optic customers show elevated churn risk
 
-![Churn by Contract Type]("C:\Users\ABHIJEET0712\OneDrive\Pictures\Screenshots\Screenshot 2026-07-22 000925.png")
-![Churn by Contract Type]("C:\Users\ABHIJEET0712\OneDrive\Pictures\Screenshots\Screenshot 2026-07-22 001045.png")
-![Churn by Tenure]("C:\Users\ABHIJEET0712\OneDrive\Pictures\Screenshots\Screenshot 2026-07-22 001206.png")
-![Churn by Monthly Charges]("C:\Users\ABHIJEET0712\OneDrive\Pictures\Screenshots\Screenshot 2026-07-22 001307.png")
-![Feature Importance]("C:\Users\ABHIJEET0712\OneDrive\Pictures\Screenshots\Screenshot 2026-07-22 002725.png")
+![Churn Distribution]("https://github.com/ASW0712/customer-churn-prediction/blob/main/Customer_Churn_Prediction_System/images/churn_distribution.png")
+![Churn by Contract Type]("https://github.com/ASW0712/customer-churn-prediction/blob/main/Customer_Churn_Prediction_System/images/churn_by_contract.png")
+![Churn by Tenure]("https://github.com/ASW0712/customer-churn-prediction/blob/main/Customer_Churn_Prediction_System/images/churn_by_tenure.png")
+![Churn by Monthly Charges]("https://github.com/ASW0712/customer-churn-prediction/blob/main/Customer_Churn_Prediction_System/images/churn_by_monthlycharges.png")
+![Feature Importance]("https://github.com/ASW0712/customer-churn-prediction/blob/main/Customer_Churn_Prediction_System/images/feature_importance.png")
 
 ## Model Performance
 
